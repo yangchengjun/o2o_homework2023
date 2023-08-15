@@ -14,19 +14,19 @@ python 2023homework_o2o.py
 ```
 ## 4 输出说明
 
-> sciclass/output_files/baseline_importance.csv
+> output_files/baseline_importance.csv
 
 为各个特征重要性得分，降序排列
 
-> sciclass/Baseline_o2o.py
+> output_files/baseline.csv
 
 4列分别为[用户id，优惠券id，收到优惠券日期，预测概率]
 
-> sciclass/output_files/models
+> output_files/models
 
 存放训练好的模型
 
-> sciclass/output_files/figures
+> output_files/figures
 
 保存了精度对比图像
 
