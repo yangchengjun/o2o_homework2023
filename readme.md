@@ -45,7 +45,7 @@ unzip dataset/ccf_online_stage1_train.zip
 ```
 ## 3 运行训练与测试
 ```
-python 2023homework_o2o.py
+python homework_o2o.py
 ```
 ## 4 输出说明
 
