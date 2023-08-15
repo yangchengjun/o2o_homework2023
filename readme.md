@@ -6,7 +6,9 @@ pip install catboost joblib
 ## 2 加压数据集
 ```
 unzip dataset/ccf_offline_stage1_train.zip
-unzip dataset/ccf_online_stage1_train.zip
+#补充下载数据集，太大了我无法上传
+wget https://github.com/yangchengjun/o2o_dataset/blob/master/dataset/ccf_online_stage1_train.zip -o dataset/
+unzip dataset/ccf_online_stage1_train.zip 
 ```
 ## 3 运行训练与测试
 ```
